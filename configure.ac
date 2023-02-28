@@ -1,7 +1,6 @@
 
-AC_INIT(hello)
+AC_INIT([hello])
 AC_CONFIG_SRCDIR([hello.c])
-AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(hello, main)
 
 # Checks for programs.

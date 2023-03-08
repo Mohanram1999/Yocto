@@ -1,4 +1,4 @@
 AUTOMAKE_OPTIONS = foreign
 
-bin_PROGRAMS = world
-world_SOURCES = world.c
+bin_PROGRAMS = final
+final_SOURCES = final.c

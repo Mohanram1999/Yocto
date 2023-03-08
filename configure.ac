@@ -1,6 +1,6 @@
 
-AC_INIT([world],[0.1])
-AC_CONFIG_SRCDIR([world.c])
+AC_INIT([final],[0.1])
+AC_CONFIG_SRCDIR([final.c])
 AM_INIT_AUTOMAKE([1.11])
 
 # Checks for programs.
